@@ -4,7 +4,7 @@
  var quiz = [
         {
             "question" : "Q1: The Omen - Who played Damien's father Robert Thorn in this 1976 horror classic?",
-            "image" : "/images/omen_poster.jpg",
+            "image" : "images/omen_poster.jpg",
             "choices" : [
                                     "1) William Holden",
                                     "2) John Cassavetes",
@@ -17,7 +17,7 @@
         },
         {
             "question" : "Q2: Jaws - where did these shark attacks take place?",
-            "image" : "/images/jaws_poster.jpg",
+            "image" : "images/jaws_poster.jpg",
             "choices" : [
                                     "1) Long Island",
                                     "2) Oceanside",
@@ -30,7 +30,7 @@
         },
         {
             "question" : "Q3: Which of these were true for The Exorcist?",
-            "image" : "/images/amityville_poster.jpg",
+            "image" : "images/amityville_poster.jpg",
             "choices" : [
                                     "1) received an Academy Award Nomination for Best Picture",
                                     "2) had to issue bodyguards for its stars to protect them from religious groups",
@@ -43,7 +43,7 @@
         },
         {
             "question" : "Q4: Texas Chainsaw Massacre - Due to limited funds, Director Tobe Hooper had to pay narrator John Larroquette with ",
-            "image" : "/images/texas_chainsaw_poster.jpg",
+            "image" : "images/texas_chainsaw_poster.jpg",
             "choices" : [
                                     "1) food and booze",
                                     "2) biggest trailer on set",
@@ -56,7 +56,7 @@
         },
         {
             "question" : "Q5: Halloween - Which actor's face was used to make the infamous mask Michael Myers wore in the film?",
-            "image" : "/images/halloween_poster.jpg",
+            "image" : "images/halloween_poster.jpg",
             "choices" : [
                                     "1) Leonard Nimoy",
                                     "2) Burt Reynolds",
@@ -69,7 +69,7 @@
         },
         {
             "question" : "Q6: The Shining - To get past MPAA restrictions, what did Stanley Kubrick tell them he was using in the infamous elevator scenes?",
-            "image" : "/images/shining_poster.jpg",
+            "image" : "images/shining_poster.jpg",
             "choices" : [
                                     "1) tomato juice",
                                     "2) water and food coloring",
